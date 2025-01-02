@@ -1,6 +1,7 @@
 ******************************ReadMe********************************
 
-# Login présent dans la base de données :
+# Login présent dans la base de données 
+
 email : Charly@gmail.com
 password : Charly!
 
@@ -28,8 +29,7 @@ password : Charly!
 
 # GitHub
 
-- Nom d'utilisateur : Charly59212
-- Nom du dépôt : Bibliotheque
+https://github.com/Charly59212/Bibliotheque
 
 
 # Améliorations possibles du projet
